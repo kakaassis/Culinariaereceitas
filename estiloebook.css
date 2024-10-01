@@ -1,0 +1,36 @@
+.minha-div {
+    text-align: center;
+    background-color: rgb(210, 51, 51);
+    border: 0px solid black;
+    padding: 0px;
+}
+
+body {
+
+    background-color: rgb(247, 247, 233);
+    
+
+
+
+}
+
+.eu-div {
+    text-align: center;
+    background-color: rgb(210, 51, 51);
+    border: 0px solid black;
+    padding: 0px;
+}
+
+.kauany-div {
+
+    text-align: center;
+
+}
+.button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(210, 51, 51);;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    margin-top: 7%;
+    margin-left: 0%;
+
+}
